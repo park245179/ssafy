@@ -1,0 +1,30 @@
+.carousel-item img{
+  height: 100vh;
+
+  /* vh vw */
+  /* viewport의 height, width */
+
+}
+nav{
+  z-index: 1;
+}
+#about-part{
+  height: 95vh;
+}
+#language-part{
+  height: 95vh;
+}
+#stack-part{
+  height: 95vh;
+}
+.skill-list{
+  border: 1px black solid;
+  border-radius: 50px;
+  position:relative;
+  top:200px;
+}
+.table_list{
+
+  position:relative;
+  top:200px;
+}
